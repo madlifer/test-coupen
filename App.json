@@ -1,0 +1,15 @@
+{
+    "name": "test-coupen",
+    "description": "test-coupen",
+    "image": "heroku/python",
+    "repository": "https://github.com/madlifer/test-coupen",
+    "keywords": [
+        "python",
+        "telegram"
+    ],
+    "formation": {
+        "run": {
+            "quantity": 1
+        }
+    },
+}
